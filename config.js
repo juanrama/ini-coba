@@ -1,32 +1,31 @@
 
 var config = {
     texts: [
-        "Selamat Ulang Tahun",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "YULI",  // 同上...
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
-        "Ini Contoh",
+        "Happy Sweet Seventeen",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "AYANG",  // 同上...
+        "SEMOGA KAMU PANJANG UMUR",
+        "MAKIN SAYANG SAMA AKUU",
+        "DAN MAKIN CINTA SAMA AKUU :P",
+        "TAMBAH PINTER LAGI YA",
+        "TAMBAH DEWASA JUGA",
+        "JANGAN SERING NGELAMUN LGI",
+        "DAN JGN SERING EMOSI LGI",
+        "MWAAHH",
+        "LOVE YOU",
     ],
     
     imgs: {
-        "YULI": "./imgs/pekok.jpg",
+        "AYANG": "./imgs/pekok.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
-    // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "NYALAIN WOY",
-        play: "MULAI HEHE",
-        bannar_coming: "KOK SEPI",
-        balloons_flying: "DEKORIIN DONG",
-        cake_fadein: "MANA KUENYA ？",
-        light_candle: "LILINNYA KO GAADA ？",
-        wish_message: "SELAMAT ULANG TAHUN SAYANG",
+        turn_on: "PENCET YA BUAT NYALAIN",
+        play: "MULAI",
+        bannar_coming: "KOK SEPI, KLIK LG DONG",
+        balloons_flying: "DEKORIN YANG",
+        cake_fadein: "ADA KUENYA LOH ？",
+        light_candle: "DITIUP YA LILINYA ？",
+        wish_message: "HBD SAYANGKU :P",
         story: "A MESSAGE FOR YOU",
     }
 };
